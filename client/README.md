@@ -168,7 +168,7 @@ NODE_ENV=development
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/taskdo
 # OR use MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/taskdo?retryWrites=true&w=majority
+
 
 # CORS Configuration
 CLIENT_URL=http://localhost:5173
